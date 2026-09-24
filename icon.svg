@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <defs>
-    <linearGradient id="convertk-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#1D4ED8"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="url(#convertk-bg)"/>
-  <circle cx="32" cy="32" r="16" fill="white" opacity="0.9"/>
-  <text x="32" y="38" font-size="18" font-family="sans-serif" font-weight="bold" text-anchor="middle" fill="#1D4ED8">CO</text>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M78.4212 81.9537V99.8784L107.088 81.9537V64.0289L78.4212 81.9537ZM49.7546 81.9537V99.8784L78.4212 81.9537V64.0289L49.7546 81.9537ZM21.0879 81.9537V99.8784L49.7546 81.9537V64.0289L21.0879 81.9537Z" fill="black"/>
+<path d="M107.023 28.2432L78.3564 46.1679V64.0927L107.023 46.1679V28.2432Z" fill="black"/>
+<path d="M78.4212 28.2433L49.7546 46.168V64.0928L78.4212 46.168V28.2433ZM49.7546 28.2433L21.0879 46.1033V64.0281L49.7546 46.1033V28.2433Z" fill="black"/>
 </svg>
